@@ -30,7 +30,7 @@ body {
     background: #370C03;
 }
 .inactive {
-    color: #000000;
+    color: #00000000;
 }
 
 .ring {
@@ -111,7 +111,6 @@ div b.active.landable {
 }
 
 .gravity-indicator {
-    background-color: #000;
     padding-left: 2px;
     padding-right: 2px;
     margin-left: 2px;
